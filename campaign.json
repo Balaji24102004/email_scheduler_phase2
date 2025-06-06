@@ -1,0 +1,37 @@
+{
+  "campaign_name": "Summer Launch – SmartHydrate Bottle",
+  "product_name": "SmartHydrate Bottle",
+  "target_audience": "Fitness Enthusiasts and Tech-Savvy Consumers",
+  "features": [
+    "Tracks water intake",
+    "Syncs with fitness apps",
+    "Glows as a hydration reminder",
+    "Eco-friendly material"
+  ],
+  "email_series": [
+    {
+      "day_offset": 0,
+      "theme": "Introducing SmartHydrate",
+      "objective": "Create curiosity and announce launch"
+    },
+    {
+      "day_offset": 2,
+      "theme": "Key Benefits and Use Cases",
+      "objective": "Explain features and how it fits user lifestyle"
+    },
+    {
+      "day_offset": 4,
+      "theme": "Social Proof",
+      "objective": "Share testimonials and reviews"
+    },
+    {
+      "day_offset": 6,
+      "theme": "Limited-Time Offer",
+      "objective": "Create urgency and drive purchase"
+    }
+  ],
+  "recipients": [
+    "testuser1@example.com",
+    "testuser2@example.com"
+  ]
+}
